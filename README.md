@@ -12,9 +12,15 @@ with major - OK
 
 ------------------------------------
 
-# final
+# final from main
 
 without bump - OK
 with patch - OK
 with major - OK
-with minor - 
+with minor - OK
+
+--------------------------------
+
+# final from dev
+
+without bump - 
