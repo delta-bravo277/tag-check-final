@@ -14,4 +14,5 @@ with major - OK
 
 # final
 
-without bump 
+without bump - OK
+with patch - 
