@@ -24,8 +24,8 @@ jobs:
     - name: Assign or Get TAG
       id: get-tag
       uses: delta-bravo277/git-tag-final@main
-      with:
-       token: ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}
+      # with:
+      #  token: ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}
       
       # uses: anothrNick/github-tag-action@master
       env:
