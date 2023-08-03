@@ -7,4 +7,5 @@ with #patch
 
 from dev 
 
-without bump 
+without bump - OK
+with major - 
