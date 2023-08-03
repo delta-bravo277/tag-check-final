@@ -1,3 +1,4 @@
 # tag-check-final
 
-without bump - 
+without bump - OK
+with #patch 
