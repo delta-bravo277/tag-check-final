@@ -24,4 +24,5 @@ with minor - OK
 # final from dev
 
 without bump - OK
-with major - 
+with major - OK
+with patch - 
