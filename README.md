@@ -23,4 +23,5 @@ with minor - OK
 
 # final from dev
 
-without bump - 
+without bump - OK
+with major - 
