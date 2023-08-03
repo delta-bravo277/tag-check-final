@@ -8,4 +8,10 @@ with #patch
 from dev 
 
 without bump - OK
-with major - 
+with major - OK
+
+------------------------------------
+
+# final
+
+without bump 
