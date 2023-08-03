@@ -16,4 +16,5 @@ with major - OK
 
 without bump - OK
 with patch - OK
-with major 
+with major - OK
+with minor - 
