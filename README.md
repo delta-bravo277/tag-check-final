@@ -25,4 +25,4 @@ with minor - OK
 
 without bump - OK
 with major - OK
-with patch - 
+with patch - OK
