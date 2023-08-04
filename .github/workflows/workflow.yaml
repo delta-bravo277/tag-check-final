@@ -23,7 +23,7 @@ jobs:
 
     - name: Assign or Get TAG
       id: get-tag
-      uses: delta-bravo277/git-tag-final@main
+      uses: delta-bravo277/github-tag-action@master
       # with:
       #  token: ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}
       
